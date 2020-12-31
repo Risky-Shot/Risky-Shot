@@ -18,6 +18,7 @@
 [<img align="left" alt="Youtube" width="30px" src="https://www.svgrepo.com/show/126753/youtube.svg" />][youtube]
 [<img align="left" alt="Linkedin" width="30px" src="https://www.svgrepo.com/show/138936/linkedin.svg" />][linkedin]
 <br />
+<br />
 
 ---
 <img align="left" alt="RiskyShot's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Risky-Shot&theme=tokyonight&cache_seconds=5000&text_color=FFFFFF&show_icons=true&hide_border=true?" />
