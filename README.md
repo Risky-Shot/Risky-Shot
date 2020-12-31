@@ -13,6 +13,13 @@
 [<img align="left" alt="Youtube" width="30px" src="https://www.svgrepo.com/show/126753/youtube.svg" />][youtube]
 [<img align="left" alt="Linkedin" width="30px" src="https://www.svgrepo.com/show/138936/linkedin.svg" />][linkedin]
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="RiskyShot's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Risky-Shot&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/JatinKadian
 [youtube]: https://www.youtube.com/channel/UCMq7s6Gh-E0o_Ir2iGbGuZg
 [linkedin]: https://www.linkedin.com/in/jatin-kadian-374ab710a/
