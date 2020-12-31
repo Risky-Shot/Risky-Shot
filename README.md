@@ -8,7 +8,6 @@
 - 🏆 2021 Goals : Contribute to Open Source Projects
 
 <br />
-<br />
   
 ---
 <img align="left" alt="RiskyShot's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Risky-Shot&theme=tokyonight&cache_seconds=5000&show_icons=true&hide_border=true?" />
