@@ -17,7 +17,7 @@
 <br />
   
 ---
-<img align="left" alt="RiskyShot's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Risky-Shot&show_icons=true&hide_border=true?theme=tokyonight" />
+<img align="left" alt="RiskyShot's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Risky-Shot&theme=tokyonight&show_icons=true&hide_border=true?" />
 
 
 [twitter]: https://twitter.com/JatinKadian
