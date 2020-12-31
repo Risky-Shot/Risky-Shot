@@ -24,9 +24,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/riskyshot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-📊 **This week I spent my time on**
-
 [![riskyshot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RiskyShot)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 <p align="center"> <img alt="RiskyShot's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Risky-Shot&theme=tokyonight&cache_seconds=5000&text_color=FFFFFF&show_icons=true&hide_border=true?" />
 
