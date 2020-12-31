@@ -1,4 +1,5 @@
 ### Hi, Myself Jatin Kadian aka RiskyShot 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/JatinKadian?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 - 🔭 I’m currently working on FiveM Scripts and Discord Bot Development.
 - 🌱 I’m currently learning Lua, NodeJs and SQL.
@@ -17,7 +18,7 @@
 ---
 <img align="left" alt="RiskyShot's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Risky-Shot&theme=tokyonight&cache_seconds=5000&text_color=FFFFFF&show_icons=true&hide_border=true?" />
 
-
+---
 
 
 [twitter]: https://twitter.com/JatinKadian
