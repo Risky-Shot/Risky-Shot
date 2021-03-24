@@ -2,11 +2,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/JatinKadian?color=1DA1F2&logo=twitter&style=for-the-badge&cacheSeconds=3600)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=JatinKadian) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=risky-shot&repo=Risky-Shot&countColorcountColor&countColor=%237B1E7A)
 
 - 🔭 I’m currently working on FiveM Scripts and Discord Bot Development.
-- 🌱 I’m currently learning Lua, NodeJs and SQL.
+- 🌱 I’m currently learning Lua, NodeJs, SQL and React.
 - 🤝 Looking to collaborate with someone working on FiveM.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can't stick to one thing. :P
-- 🏆 2021 Goals : Contribute to Open Source Projects
+- 🏆 2021 Goals : Contribute to Open Source Projects and complete basics of React
 
 ### Spotify Playing 🎧
 
